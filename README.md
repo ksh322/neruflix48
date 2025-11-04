@@ -13,7 +13,7 @@ SCIT 48기 A반
 
 ## 프로젝트 소개
 넷플릭스 코리아 클론코딩
-[데모 시연 페이지](http://scit4848.github.io/scit4848/)
+[데모 시연 페이지]()
 
 ## 구성 요소 (기술스택)
 
@@ -79,6 +79,4 @@ tab content for each selector -->
 
 
 ## Acknowledgments
-http://scit48.duckdns.org:8888/web/login
-ID 영문이니셜 세글자 sdw, jjw, kangjs
-PW 1234
+scit48.duckdns.org:8888
