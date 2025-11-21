@@ -14,7 +14,7 @@ SCIT 48기 A반
 ## 프로젝트 소개
 넷플릭스 코리아 클론코딩
 ### [데모 시연 페이지]
-(http://scit4848.github.io/neruflix48/)
+https://neruflix.pages.dev/
 
 ## 구성 요소 (기술스택)
 
