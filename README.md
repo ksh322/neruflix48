@@ -22,7 +22,7 @@ https://neruflix.pages.dev/
 - CSS
 - Vanilla JS - ES6
 
-## 넷플릭스 Clone
+## 넷플릭스 Clone pages
 
 - main Page (index.html)
 - Signin Page
@@ -30,16 +30,10 @@ https://neruflix.pages.dev/
 - Profile Page
 - browse Page
 
-## Learning Points
-
-- CSS Grid
-- Styling Tables
-- Tabs with Javascript
-- Positioning
-
 ## Some cool stuff
 
-Here's a pretty simple, basic way of creating switchable tab content using Vanilla JS:
+Here's a pretty simple, basic way of 
+creating switchable tab content using Vanilla JS:
 
 
 ```html
@@ -57,6 +51,7 @@ tab content for each selector -->
 
 
 ## Acknowledgments
-scit48
+scit48.duckdns.org
+port number 8888
 ID 영문이니셜 세글자
 PW 1234
