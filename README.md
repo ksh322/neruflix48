@@ -19,8 +19,9 @@ https://neruflix.pages.dev/
 <br> Built with:
 
 - HTML
-- CSS
+- CSS @mediaquery
 - Vanilla JS - ES6
+NO other Frameworks like React
 
 ## 넷플릭스 Clone pages
 
@@ -28,7 +29,7 @@ https://neruflix.pages.dev/
 - Signin Page
 - Signup Page
 - Profile Page
-- browse Page
+- browse Page (personal_neruflix page)
 
 ## Some cool stuff
 
@@ -51,15 +52,14 @@ tab content for each selector -->
 
 ---
 ## 🛠️ 개발 환경 설정 방법
-1. **Git 설치:** [Git 공식 사이트](https://git-scm.com/)에서 Git을 다운로드하고 설치합니다.
-2. **프로젝트 클론:** 터미널(또는 Git Bash)을 열고 다음 명령어를 입력하여 프로젝트를 클론합니다.
+ **Git 설치:** [Git 공식 사이트](https://git-scm.com/)에서 Git을 다운로드하고 설치합니다.
+ **프로젝트 클론:** 터미널(또는 Git Bash)을 열고 다음 명령어를 입력하여 프로젝트를 클론합니다.
     ```bash
     git clone <프로젝트_레포지토리_URL>
     ```
-3. **코드 편집기 설치:** Visual Studio Code, Sublime Text 등 선호하는 코드 편집기를 설치합니다.
-4. **라이브 서버 확장 프로그램 설치 (선택 사항):** Visual Studio Code를 사용하는 경우, "Live Server" 확장 프로그램을 설치하여 실시간으로 변경 사항을 확인할 수 있습니다.
-5. **브라우저에서 파일 열기:** `home.html` 파일을 브라우저에서 열어 프로젝트를 확인합니다. 
-6. **개발 시작:** 코드 편집기에서 프로젝트 폴더를 열고 개발을 시작합니다.
+ **코드 편집기 설치:** Visual Studio Code, Sublime Text 등 선호하는 코드 편집기를 설치합니다.
+ **브라우저에서 파일 열기:** `home.html` 파일을 브라우저에서 열어 프로젝트를 확인합니다. 
+ **개발 시작:** 코드 편집기에서 프로젝트 폴더를 열고 개발을 시작합니다.
 ---
 ## ✍️ Git 및 버전 관리 규칙 (필수 준수)
 
@@ -93,4 +93,4 @@ tab content for each selector -->
 scit48.duckdns.org
 port number 8888
 ID 영문이니셜 세글자
-PW 1234
+PW 생일 ex) 0322
